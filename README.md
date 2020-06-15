@@ -1,1 +1,1 @@
-# Image-Super-Resolution-Using-Autoencoders-
+# Image-Super-Resolution-Using-Autoencoders
